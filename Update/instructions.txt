@@ -1,8 +1,8 @@
 # Файлы для полной замены
-replace: main_window.py
+replace: 
 
 # Функции для обновления
-patch: helpers.py:new_function
+patch: 
 
 # Новые файлы
-add: new_module.py
+add: 
